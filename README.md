@@ -30,6 +30,20 @@
       <sub><b>Pawn</b></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="40"/><br>
+      <sub><b>HTML</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="40"/><br>
+      <sub><b>CSS</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" height="40" width="40"/><br>
+      <sub><b>Go</b></sub>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -43,4 +57,4 @@
 
 ### 📱 Contact Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/730166257290313758)
-[![Youtube](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/)
