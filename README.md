@@ -29,10 +29,6 @@
       <img src="https://i.imgur.com/VJLHjfM.png" height="40" width="40"/><br>
       <sub><b>Pawn</b></sub>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="40" width="40"/><br>
-      <sub><b>SQLite</b></sub>
-    </td>
   </tr>
 </table>
 
@@ -47,5 +43,4 @@
 
 ### 📱 Contact Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/730166257290313758)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Youtube](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
