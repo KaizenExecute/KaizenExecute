@@ -49,9 +49,9 @@
 ---
 
 ### 📊 Statistics
-[![Brabosxtz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brabosxtz&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaizen GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaizenExecute&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/KaizenExecute/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brabosxtz&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaizenExecute&layout=compact&theme=github_dark&hide_border=true)](https://github.com/KaizenExecute/github-readme-stats)
 
 ---
 
