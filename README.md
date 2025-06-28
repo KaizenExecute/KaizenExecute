@@ -49,12 +49,27 @@
 ---
 
 ### 📊 Statistics
-[![Kaizen GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaizenExecute&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/KaizenExecute/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaizenExecute&show_icons=true&theme=github_dark&hide_border=true" alt="Kaizen GitHub Stats"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaizenExecute&layout=compact&theme=github_dark&hide_border=true)](https://github.com/KaizenExecute/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaizenExecute&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  
+  <img src="https://streak-stats.demolab.com/?user=KaizenExecute&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats"/>
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=KaizenExecute&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 
 ---
 
 ### 📱 Contact Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/730166257290313758)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/)
+
+---
+
+### ✨ Animated Contribution Calendar
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KaizenExecute&theme=darkhub&no-bg=true&row=1&margin-w=15" alt="Trophies"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaizenExecute&theme=github_dark" alt="Profile Details"/>
+</div>
