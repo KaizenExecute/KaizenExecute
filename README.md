@@ -1,36 +1,41 @@
-
 ### 🛠️ Tools
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-3d3638?style=flat&logo=educative&logoColor=e9b991)
-![Termux](https://img.shields.io/badge/Termux-3d3638?style=flat&logo=educative&logoColor=e9b991)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-2C2C32?style=flat&logo=visualstudio&logoColor=5C2D91)
+![Termux](https://img.shields.io/badge/Termux-2C2C32?style=flat&logo=termux&logoColor=FFFFFF)
+
+---
 
 ### 🌍 Knowledge
-<table align="left">
+<table>
   <tr>
-    <td align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40"/><br>
-      <sub>JavaScript</sub>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="40"/><br>
+      <sub><b>JavaScript</b></sub>
     </td>
-    <td align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" height="30" width="40"/><br>
-      <sub>Node.js</sub>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" height="40" width="40"/><br>
+      <sub><b>Node.js</b></sub>
     </td>
-    <td align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40"/><br>
-      <sub>GitHub</sub>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" width="40"/><br>
+      <sub><b>GitHub</b></sub>
     </td>
-    <td align="left">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" height="30" width="40"/><br>
-      <sub>Python</sub>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40"/><br>
+      <sub><b>Python</b></sub>
     </td>
-    <td align="left">
-      <img src="https://i.imgur.com/VJLHjfM.png" height="30" width="40"/><br>
-      <sub>Pawn</sub>
+    <td align="center">
+      <img src="https://i.imgur.com/VJLHjfM.png" height="40" width="40"/><br>
+      <sub><b>Pawn</b></sub>
     </td>
   </tr>
 </table>
 
-### 📋 Statistics
-[![Brabosxtz GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Brabosxtz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+---
 
-### 📱 Contact
-[![Discord](https://img.shields.io/badge/Discord-3d3638?style=flat&logo=discord)](https://discord.com/users/730166257290313758)
+### 📊 Statistics
+[![Brabosxtz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brabosxtz&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📱 Contact Me
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/730166257290313758)
