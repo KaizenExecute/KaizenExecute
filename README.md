@@ -1,6 +1,8 @@
 ### 🛠️ Tools
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-2C2C32?style=flat&logo=visualstudio&logoColor=5C2D91)
 ![Termux](https://img.shields.io/badge/Termux-2C2C32?style=flat&logo=termux&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-2C2C32?style=flat&logo=docker&logoColor=2496ED)
+![Postman](https://img.shields.io/badge/Postman-2C2C32?style=flat&logo=postman&logoColor=FF6C37)
 
 ---
 
@@ -27,6 +29,10 @@
       <img src="https://i.imgur.com/VJLHjfM.png" height="40" width="40"/><br>
       <sub><b>Pawn</b></sub>
     </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="40" width="40"/><br>
+      <sub><b>SQLite</b></sub>
+    </td>
   </tr>
 </table>
 
@@ -35,7 +41,11 @@
 ### 📊 Statistics
 [![Brabosxtz GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brabosxtz&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brabosxtz&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### 📱 Contact Me
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/730166257290313758)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/)
