@@ -56,7 +56,7 @@
   
   <img src="https://streak-stats.demolab.com/?user=KaizenExecute&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats"/>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=KaizenExecute&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KaizenExecute&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
