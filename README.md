@@ -51,11 +51,11 @@
 ### 📊 Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaizenExecute&show_icons=true&theme=github_dark&hide_border=true" alt="Kaizen GitHub Stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaizenExecute&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
-  
-  <img src="https://streak-stats.demolab.com/?user=KaizenExecute&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats"/>
-
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaizenExecute&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" style="animation: pulse 2s infinite;"/>
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=KaizenExecute&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" style="animation: fadeIn 3s infinite;"/>
+  <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KaizenExecute&theme=github-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
