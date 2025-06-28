@@ -4,25 +4,25 @@
 ![Termux](https://img.shields.io/badge/Termux-3d3638?style=flat&logo=educative&logoColor=e9b991)
 
 ### 🌍 Knowledge
-<table align="center">
+<table align="left">
   <tr>
-    <td align="center">
+    <td align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40"/><br>
       <sub>JavaScript</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" height="30" width="40"/><br>
       <sub>Node.js</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40"/><br>
       <sub>GitHub</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" height="30" width="40"/><br>
       <sub>Python</sub>
     </td>
-    <td align="center">
+    <td align="left">
       <img src="https://i.imgur.com/VJLHjfM.png" height="30" width="40"/><br>
       <sub>Pawn</sub>
     </td>
